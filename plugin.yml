@@ -8,3 +8,4 @@ commands:
   RemoveArmour:
     description: 'Removes armour via command blocks.'
     usage: 'Usage: /<command>'
+    aliases: [removearmor, remarmor, rmarmor, cleararmor, remarmour, rmarmour, cleararmour]
