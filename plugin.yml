@@ -1,0 +1,10 @@
+name: RemoveArmour
+version: 0.1
+author: Wundark
+website: wundark.com
+main: eu.wServers.RemoveArmour.RemoveArmour
+description: 
+commands:
+  RemoveArmour:
+    description: 'Removes armour via command blocks.'
+    usage: 'Usage: /<command>'
